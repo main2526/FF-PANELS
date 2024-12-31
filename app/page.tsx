@@ -11,7 +11,6 @@ export default function Home() {
          <div>
              <span>Plis suscribete a mi canal de youtube para poder seguir creando paneles y ponerselos sin anuncios con links directos <p>Les agradeceria un  like & suscribirse</p></span>
 
-             <span>This  is a update 😂</span>
          </div>
   </div>
 </div>

@@ -10,6 +10,8 @@ export default function Home() {
          <h1 className="text-red-600 text-center">Note Important!</h1>
          <div>
              <span>Plis suscribete a mi canal de youtube para poder seguir creando paneles y ponerselos sin anuncios con links directos <p>Les agradeceria un  like & suscribirse</p></span>
+
+             <span>This  is a update 😂</span>
          </div>
   </div>
 </div>
